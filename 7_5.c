@@ -7,9 +7,10 @@ int main(void){
 	char array[81];
 	int i;
 	
-	printf("ÊäÈë×Ö·û´®£º");
+	printf("è¯·è¾“å…¥å­—ç¬¦ä¸²ï¼š");
 	gets(array);
 	swap(array);
+	printf("å€’è½¬åçš„å­—ç¬¦ä¸²ä¸ºï¼š"):
 	puts(array);
 	
 	return 0;
